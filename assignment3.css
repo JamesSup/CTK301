@@ -1,0 +1,41 @@
+p {
+    color: blue;
+    background-color: lightgreen;
+  }
+h1 {
+    color: purple;
+    background-color: lightblue;
+}
+.second {
+    color: orange;
+    background-color: aqua;
+}
+.point {
+    color: purple;
+    background-color: yellow;
+}
+.group {
+    color: red;
+    background-color: burlywood;
+}
+#h2page1 {
+    color: blueviolet;
+    background-color: bisque;
+}
+#h2page2 {
+    color: aqua;
+    background-color: lightyellow;
+}
+#h2page3 {
+    color: pink;
+    background-color: lightcyan;
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: yellow;
+}
