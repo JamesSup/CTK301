@@ -1,6 +1,6 @@
 body {
-    background-color: #999999;
-}
+    background-color: #d5d5d5;
+  }
 
 #wrapper {
     margin: 24px auto;
@@ -60,9 +60,9 @@ iframe {
 .f-carousel__slide {
     text-align: center;
     padding: 24px;
-    background: #eee;
+    background: white;
 }
 
 img {
-    width: 1200px;
+    width: 1000px;
 }
